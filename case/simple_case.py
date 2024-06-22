@@ -7,8 +7,8 @@ from utils.kill_process import Process
 async def main():
     Process.kill_process()
 
-    chromium_path = f'/Users/hongyuji/Documents/workspace/golang/Chromium.app/Contents/MacOS/Chromium'
-    user_data_dir = f'/Users/hongyuji/Documents/workspace/python/luna_python/cache'
+    chromium_path = f'/Users/Documents/workspace/golang/Chromium.app/Contents/MacOS/Chromium'
+    user_data_dir = f'/Users/Documents/workspace/python/luna_python/cache'
 
     browser = await Browser().launch(
         chromium_path=chromium_path,
