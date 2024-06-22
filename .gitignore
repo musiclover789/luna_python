@@ -1,0 +1,16 @@
+# 忽略 .git 目录（通常不需要，因为 .git 目录默认不会被再次跟踪）
+.git/
+
+# 忽略 .idea 目录（IDE 配置）
+.idea/
+
+
+# 忽略 .DS_Store 文件（无论在哪个目录）
+**/.DS_Store
+
+# 忽略 app.log 文件（无论在哪个目录）
+**/app.log
+
+venv/
+
+
