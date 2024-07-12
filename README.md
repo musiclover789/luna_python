@@ -12,7 +12,7 @@ email:80258153@qq.com
 
 
 
-注：如果您擅长golang尽量选择golang版本，python版本新完成，可能存在不足之处。
+
 
 
 
