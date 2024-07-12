@@ -104,7 +104,7 @@ https://abrahamjuliot.github.io/creepjs/
 
 125版本
 
-链接: https://pan.baidu.com/s/1lS9Ort3rGdrb59kDlNK7mg 提取码: he2u
+链接: https://pan.baidu.com/s/1DH0Thiq42UTFCFZnxoE39Q 提取码: jime 
 
 
 
@@ -127,7 +127,7 @@ https://abrahamjuliot.github.io/creepjs/
 | ---- | -------------------------------------------------------- |
 |      | user_agent指纹                                           |
 |      | canvas指纹                                               |
-|      | webgl指纹                                                |
+|      | webgl指纹、webgpu                                                |
 |      | platform平台                                             |
 |      | timezone时区                                             |
 |      | timezone_offset时区偏移量                                |
