@@ -97,7 +97,8 @@ https://abrahamjuliot.github.io/creepjs/
 目前，我们已经将浏览器文件上传到 百度 网盘，并提供了下载链接：
 
 
-链接: https://pan.baidu.com/s/155ulloEVwpgBzHnwTtY3cQ 提取码: fn5f
+2024-7-26版
+链接: https://pan.baidu.com/s/1Q8kQaS6ZLS6nWZc4qpThEg 提取码: xvji
 
 
 
