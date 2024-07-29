@@ -1,6 +1,5 @@
 import subprocess
 from typing import List
-
 import requests
 import portpicker
 import json
@@ -14,12 +13,21 @@ def get_port() -> int:
     return portpicker.pick_unused_port()
 
 
+def write_fingerprint_to_file(fingerprint: List[str], filename: str):
+    with open(filename, 'w') as f:
+        for line in fingerprint:
+            # 去掉每行开头的 '--'
+            line = line.lstrip('-')
+            # 写入到文件中
+            f.write(line + '\n')
+
+
 def launch(chromium_path: str, user_data_dir: str = None, proxy_str: str = None,
            fingerprint: List[str] = None, headless=False, window_size=None) -> str:
     # 获取随机端口
     random_port = get_port()
     print("端口是:", random_port)
-    # 代理ip进程id
+    # 代理ip进程idÅ
     proxy_pid = None
     # 构建命令
     command = [
@@ -37,8 +45,10 @@ def launch(chromium_path: str, user_data_dir: str = None, proxy_str: str = None,
             proxy_pid = proxy_result[1]
 
     if fingerprint:
-        for fp in fingerprint:
-            command.append(fp)
+        write_fingerprint_to_file(fingerprint, "C:\\luna-temp\\" + str(random_port))
+        # for fp in fingerprint:
+        #     command.append(fp)
+
     if headless:
         command.append("--headless")
 
