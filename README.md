@@ -18,7 +18,7 @@ golang版:https://github.com/musiclover789/luna
 
 - luna是一个自动化框架，类似Selenium Pyppeteer Playwright。满足专业的自动化测试需求。
 - luna浏览器、支持浏览器指纹、防关联相关功能的浏览器。
-- luna浏览器支持第三方框架、如playwright等。
+- luna浏览器支持第三方框架、如playwright等、
 
 
 
@@ -98,8 +98,10 @@ https://abrahamjuliot.github.io/creepjs/
 目前，我们已经将浏览器文件上传到 百度 网盘，并提供了下载链接：
 
 
-2024-7-26版
-链接: https://pan.baidu.com/s/1Q8kQaS6ZLS6nWZc4qpThEg 提取码: xvji
+2024-7-30版
+
+链接: https://pan.baidu.com/s/1o3S65sHwiv9bgRkN7M_VMQ 提取码: s1t7
+
 
 
 
