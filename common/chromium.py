@@ -46,8 +46,9 @@ def launch(chromium_path: str, user_data_dir: str = None, proxy_str: str = None,
 
     if fingerprint:
         write_fingerprint_to_file(fingerprint, "C:\\luna-temp\\" + str(random_port))
-        # for fp in fingerprint:
-        #     command.append(fp)
+        for fp in fingerprint:
+            if 'luna' not in fp.lower():
+                command.append(fp)
 
     if headless:
         command.append("--headless")
