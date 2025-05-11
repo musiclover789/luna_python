@@ -106,10 +106,10 @@ https://abrahamjuliot.github.io/creepjs/
 目前，我们已经将浏览器文件上传到 百度 网盘，并提供了下载链接：
 
 
-2024-7-31版
+2025-5-11版
 
 
-链接: https://pan.baidu.com/s/11I3BlmSuNJgHxaQmZzWf5Q 提取码: e4uh
+链接: https://pan.baidu.com/s/1XdfU_hSxIiBk8U7fdKxA_g 提取码: 29ad
 
 
 
