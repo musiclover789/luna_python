@@ -107,7 +107,7 @@ https://abrahamjuliot.github.io/creepjs/
 
 
 2025-5-11版
-
+##### 非授权用户重要部分指纹不生效
 
 链接: https://pan.baidu.com/s/1XdfU_hSxIiBk8U7fdKxA_g 提取码: 29ad
 
