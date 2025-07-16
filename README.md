@@ -106,10 +106,10 @@ https://abrahamjuliot.github.io/creepjs/
 目前，我们已经将浏览器文件上传到 百度 网盘，并提供了下载链接：
 
 
-2025-5-11版
-##### 非授权用户重要部分指纹不生效
+2025-7-16版
 
-链接: https://pan.baidu.com/s/1XdfU_hSxIiBk8U7fdKxA_g 提取码: 29ad
+##### 非授权用户部分指纹不生效 链接: https://pan.baidu.com/s/1QLHd1S_3yvlWDH_5JOeAMg 提取码: h7fb
+授权300/台设备/不限时间/离线授权文件绑定/无隐私顾虑/无实例限制
 
 
 
