@@ -109,7 +109,8 @@ https://abrahamjuliot.github.io/creepjs/
 2025-7-16版
 
 ##### 非授权用户大部分指纹不生效 链接: https://pan.baidu.com/s/1QLHd1S_3yvlWDH_5JOeAMg 提取码: h7fb
-授权300每台设备/不限时间/离线授权文件绑定/无隐私顾虑/无实例限制
+
+授权300/指纹可以无限设置，仅作为是否生效的授权/不限时间/离线授权文件绑定/无隐私顾虑。
 
 
 
